@@ -1,0 +1,28 @@
+{
+  "name": "sqserver",
+  "version": "1.0.0",
+  "description": "my website's server",
+  "main": "main.js",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "mongodb": "^2.2.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvelsq/sqserver.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "MarvelSQ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/marvelsq/sqserver/issues"
+  },
+  "homepage": "https://github.com/marvelsq/sqserver#readme"
+}
